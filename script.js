@@ -21,13 +21,13 @@ $(document).ready(function () {
 
   var typed = new Typed(".typing", {
     strings: ["Frontend Dev", "Coder", "Youtuber", "Streamer"],
-    typedSpeed: 30,
+    typedSpeed: 10,
     backSpeed: 30,
     loop: true
   });
   var typed = new Typed(".typing2", {
     strings: ["Frontend Dev", "Coder", "Youtuber", "Streamer"],
-    typedSpeed: 30,
+    typedSpeed: 10,
     backSpeed: 30,
     loop: true
   });
